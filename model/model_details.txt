@@ -1,0 +1,6 @@
+Model_name :- "llama-2-7b-chat.ggmlv3.q4_0.bin" 
+Model_From : HuggingFace
+
+Tokenizer_model : "sentence-transformers/all-MiniLM-L6-v2" 
+Tokenizer_from: HuggingFace
+Dimension:  384 dimensional
