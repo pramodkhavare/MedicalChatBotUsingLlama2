@@ -4,3 +4,7 @@ Model_From : HuggingFace
 Tokenizer_model : "sentence-transformers/all-MiniLM-L6-v2" 
 Tokenizer_from: HuggingFace
 Dimension:  384 dimensional
+Note: In place of HuggingFaceEMbedding you can use following option:
+1. Sentence Transformers
+2. SpaCy
+3. OpenAIEmbeddings 
